@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+gem "cpf_faker"
+gem "cucumber"
+gem "date"
+gem "httparty"
+gem "pdf-reader"
+gem "pry"
+gem "rspec"
